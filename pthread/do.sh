@@ -1,0 +1,2 @@
+make
+cp main ~/Public/
